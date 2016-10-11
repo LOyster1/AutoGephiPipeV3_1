@@ -1,0 +1,20 @@
+dl
+YearMonthDate 2014 11 1
+format = edgelist1	
+n=15	
+data:
+seward season 1.0	
+saturdai finish 1.0	
+saturdai regular 1.0	
+season regular 1.0	
+regular grace 1.0	
+seward regular 1.0	
+season finish 1.0	
+regular finish 1.0	
+seward finish 1.0	
+season saturdai 1.0	
+saturdai grace 1.0	
+season grace 1.0	
+seward grace 1.0	
+seward saturdai 1.0	
+grace finish 1.0	

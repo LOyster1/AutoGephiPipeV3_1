@@ -1,0 +1,15 @@
+dl
+YearMonthDate 2014 1 10
+format = edgelist1	
+n=10	
+data:
+motorboat area 1.0	
+spawn restrict 1.0	
+spawn area 1.0	
+spawn motorboat 1.0	
+spawn activ 1.0	
+restrict area 1.0	
+motorboat activ 1.0	
+area activ 1.0	
+restrict activ 1.0	
+restrict motorboat 1.0	

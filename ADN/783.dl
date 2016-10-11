@@ -1,0 +1,23 @@
+dl
+YearMonthDate 2014 10 30
+format = edgelist1	
+n=18	
+data:
+link limit 0.25	
+click charact 0.25	
+limit click 0.25	
+respons link 0.25	
+respons answer 0.25	
+respons click 0.25	
+charact answer 0.25	
+click answer 0.25	
+link click 0.25	
+limit charact 1.0	
+charact answer 1.0	
+limit charact 0.25	
+link answer 0.25	
+limit answer 0.25	
+respons limit 0.25	
+limit answer 1.0	
+link charact 0.25	
+respons charact 0.25	

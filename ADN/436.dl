@@ -1,0 +1,15 @@
+dl
+YearMonthDate 2014 0 13
+format = edgelist1	
+n=10	
+data:
+patrick munson 1.0	
+shot munson 1.0	
+stop shot 1.0	
+stop munson 1.0	
+shot fairbank 1.0	
+stop patrick 1.0	
+patrick fairbank 1.0	
+stop fairbank 1.0	
+shot patrick 1.0	
+munson fairbank 1.0	

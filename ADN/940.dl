@@ -1,0 +1,16 @@
+dl
+YearMonthDate 2015 1 10
+format = edgelist1	
+n=11	
+data:
+wasilla coloni 0.18181818181818182	
+wasilla soldotna 0.18181818181818182	
+palmer dimond 1.0	
+soldotna score 0.18181818181818182	
+team soldotna 0.18181818181818182	
+wasilla score 0.18181818181818182	
+team score 0.18181818181818182	
+team coloni 0.18181818181818182	
+soldotna coloni 0.18181818181818182	
+wasilla team 0.18181818181818182	
+score coloni 0.18181818181818182	

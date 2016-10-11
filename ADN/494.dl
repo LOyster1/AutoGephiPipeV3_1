@@ -1,0 +1,11 @@
+dl
+YearMonthDate 2014 3 30
+format = edgelist1	
+n=6	
+data:
+season river 1.0	
+river kenai 1.0	
+season kenai 1.0	
+river fairbank 1.0	
+season fairbank 1.0	
+kenai fairbank 1.0	

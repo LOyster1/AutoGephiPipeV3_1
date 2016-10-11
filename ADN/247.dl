@@ -1,0 +1,20 @@
+dl
+YearMonthDate 2012 5 27
+format = edgelist1	
+n=15	
+data:
+theth clarion 1.0	
+theth peninsula 1.0	
+fish check 1.0	
+theth ninilchik 1.0	
+fish clarion 1.0	
+theth fish 1.0	
+theth check 1.0	
+peninsula check 1.0	
+ninilchik fish 1.0	
+ninilchik clarion 1.0	
+peninsula fish 1.0	
+peninsula clarion 1.0	
+peninsula ninilchik 1.0	
+clarion check 1.0	
+ninilchik check 1.0	

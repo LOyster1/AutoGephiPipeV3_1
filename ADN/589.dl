@@ -1,0 +1,31 @@
+dl
+YearMonthDate 2014 6 17
+format = edgelist1	
+n=26	
+data:
+miss famili 0.3333333333333333	
+person late 0.3333333333333333	
+miss famili 0.3333333333333333	
+call ask 1.0	
+famili call 0.3333333333333333	
+miss late 0.3333333333333333	
+person call 1.0	
+person miss 0.3333333333333333	
+miss ask 0.3333333333333333	
+person ask 0.3333333333333333	
+miss late 0.3333333333333333	
+call ask 0.3333333333333333	
+person miss 0.3333333333333333	
+miss ask 0.3333333333333333	
+late ask 0.3333333333333333	
+miss call 0.3333333333333333	
+miss call 0.3333333333333333	
+person call 0.3333333333333333	
+person famili 0.3333333333333333	
+famili ask 0.3333333333333333	
+late call 0.3333333333333333	
+person ask 1.0	
+miss call 1.0	
+miss ask 1.0	
+person miss 1.0	
+late famili 0.3333333333333333	

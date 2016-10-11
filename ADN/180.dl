@@ -1,0 +1,11 @@
+dl
+YearMonthDate 2011 6 29
+format = edgelist1	
+n=6	
+data:
+wayn contact 1.0	
+wayn challon 1.0	
+challon addit 1.0	
+wayn addit 1.0	
+contact challon 1.0	
+contact addit 1.0	

@@ -1,0 +1,20 @@
+dl
+YearMonthDate 2014 9 12
+format = edgelist1	
+n=15	
+data:
+ic dog 1.0	
+munson ic 1.0	
+patrick dog 1.0	
+munson dog 1.0	
+stop dog 1.0	
+stop ic 1.0	
+stop patrick 1.0	
+shot ic 1.0	
+patrick munson 1.0	
+patrick ic 1.0	
+shot patrick 1.0	
+shot munson 1.0	
+stop shot 1.0	
+shot dog 1.0	
+stop munson 1.0	

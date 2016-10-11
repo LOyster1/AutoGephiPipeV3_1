@@ -1,0 +1,15 @@
+dl
+YearMonthDate 2014 6 22
+format = edgelist1	
+n=10	
+data:
+field chugiak 1.0	
+kosinski field 1.0	
+kenai doublehead 1.0	
+kosinski doublehead 1.0	
+kenai field 1.0	
+kosinski kenai 1.0	
+field doublehead 1.0	
+kosinski chugiak 1.0	
+doublehead chugiak 1.0	
+kenai chugiak 1.0	

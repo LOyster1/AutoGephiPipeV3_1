@@ -1,0 +1,20 @@
+dl
+YearMonthDate 2009 6 15
+format = edgelist1	
+n=15	
+data:
+karno hayden 1.0	
+nightcap hayden 1.0	
+hayden allr 1.0	
+shutout hayden 1.0	
+shutout nightcap 1.0	
+shutout allr 1.0	
+hayden combin 1.0	
+combin allr 1.0	
+nightcap combin 1.0	
+nightcap karno 1.0	
+karno combin 1.0	
+shutout karno 1.0	
+nightcap allr 1.0	
+shutout combin 1.0	
+karno allr 1.0	

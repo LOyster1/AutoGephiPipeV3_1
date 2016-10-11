@@ -1,0 +1,15 @@
+dl
+YearMonthDate 2014 6 13
+format = edgelist1	
+n=10	
+data:
+review david 1.0	
+david baldacci 1.0	
+review book 1.0	
+super baldacci 1.0	
+book baldacci 1.0	
+super david 1.0	
+david book 1.0	
+super review 1.0	
+review baldacci 1.0	
+super book 1.0	

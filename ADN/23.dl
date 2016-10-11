@@ -1,0 +1,15 @@
+dl
+YearMonthDate 2009 2 3
+format = edgelist1	
+n=10	
+data:
+time saturdai 1.0	
+saturdai program 1.0	
+thursdai air 1.0	
+thursdai saturdai 1.0	
+time thursdai 1.0	
+time program 1.0	
+thursdai program 1.0	
+program air 1.0	
+saturdai air 1.0	
+time air 1.0	

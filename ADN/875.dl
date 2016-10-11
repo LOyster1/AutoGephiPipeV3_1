@@ -1,0 +1,32 @@
+dl
+YearMonthDate 2015 0 11
+format = edgelist1	
+n=27	
+data:
+oct fridai 1.0	
+petit oct 0.3181818181818182	
+petit fund 0.3181818181818182	
+fridai certifi 1.0	
+petit add 0.3181818181818182	
+fridai certifi 0.3181818181818182	
+petit certifi 0.3181818181818182	
+petit municip 0.3181818181818182	
+oct fridai 0.3181818181818182	
+oct certifi 1.0	
+fund fridai 0.3181818181818182	
+municip fridai 0.3181818181818182	
+petit fridai 0.3181818181818182	
+municip certifi 0.3181818181818182	
+municip add 0.3181818181818182	
+fund add 0.3181818181818182	
+fridai add 0.3181818181818182	
+oct add 0.3181818181818182	
+oct municip 0.3181818181818182	
+petit certifi 1.0	
+petit fridai 1.0	
+fund certifi 0.3181818181818182	
+petit oct 1.0	
+municip fund 0.3181818181818182	
+oct certifi 0.3181818181818182	
+oct fund 0.3181818181818182	
+certifi add 0.3181818181818182	

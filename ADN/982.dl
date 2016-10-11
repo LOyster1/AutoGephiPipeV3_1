@@ -1,0 +1,11 @@
+dl
+YearMonthDate 2015 2 3
+format = edgelist1	
+n=6	
+data:
+midwest bear 1.0	
+midwest brown 1.0	
+brown bear 1.0	
+sit midwest 1.0	
+sit brown 1.0	
+sit bear 1.0	

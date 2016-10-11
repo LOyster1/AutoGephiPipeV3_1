@@ -1,0 +1,8 @@
+dl
+YearMonthDate 2010 11 4
+format = edgelist1	
+n=3	
+data:
+ongo investig 1.0	
+read investig 1.0	
+read ongo 1.0	

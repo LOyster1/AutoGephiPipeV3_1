@@ -1,0 +1,15 @@
+dl
+YearMonthDate 2015 2 14
+format = edgelist1	
+n=10	
+data:
+team kardin 1.0	
+team kenai 1.0	
+kenai kardin 1.0	
+titl kardin 1.0	
+titl team 1.0	
+swept kardin 1.0	
+swept kenai 1.0	
+titl swept 1.0	
+team swept 1.0	
+titl kenai 1.0	

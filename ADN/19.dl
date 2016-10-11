@@ -1,0 +1,11 @@
+dl
+YearMonthDate 2008 10 13
+format = edgelist1	
+n=6	
+data:
+roe rich 1.0	
+roe return 1.0	
+shiner roe 1.0	
+shiner rich 1.0	
+rich return 1.0	
+shiner return 1.0	

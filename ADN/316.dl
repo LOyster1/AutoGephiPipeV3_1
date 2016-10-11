@@ -1,0 +1,20 @@
+dl
+YearMonthDate 2013 0 28
+format = edgelist1	
+n=15	
+data:
+percent expect 1.0	
+red expect 1.0	
+river return 1.0	
+return kasilof 1.0	
+return percent 1.0	
+kasilof expect 1.0	
+percent kasilof 1.0	
+river percent 1.0	
+return expect 1.0	
+red percent 1.0	
+river red 1.0	
+river kasilof 1.0	
+return red 1.0	
+river expect 1.0	
+red kasilof 1.0	

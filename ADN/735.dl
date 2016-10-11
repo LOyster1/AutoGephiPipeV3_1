@@ -1,0 +1,11 @@
+dl
+YearMonthDate 2014 10 2
+format = edgelist1	
+n=6	
+data:
+sacr heart 1.0	
+heart hausing 1.0	
+ticket heart 1.0	
+ticket hausing 1.0	
+ticket sacr 1.0	
+sacr hausing 1.0	

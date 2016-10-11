@@ -1,0 +1,33 @@
+dl
+YearMonthDate 2013 8 12
+format = edgelist1	
+n=28	
+data:
+women salmon 1.0	
+salmon held 1.0	
+valdez held 1.0	
+valdez august 1.0	
+top silver 1.0	
+silver held 1.0	
+held derbi 1.0	
+women august 1.0	
+top derbi 1.0	
+women silver 1.0	
+top august 1.0	
+salmon august 1.0	
+silver august 1.0	
+top held 1.0	
+valdez silver 1.0	
+held august 1.0	
+top salmon 1.0	
+valdez derbi 1.0	
+women derbi 1.0	
+valdez top 1.0	
+silver derbi 1.0	
+salmon derbi 1.0	
+women top 1.0	
+derbi august 1.0	
+valdez salmon 1.0	
+silver salmon 1.0	
+women valdez 1.0	
+women held 1.0	

@@ -1,0 +1,26 @@
+dl
+YearMonthDate 2015 2 3
+format = edgelist1	
+n=21	
+data:
+victori theisen 1.0	
+kenai alexandria 1.0	
+victori bergholtz 1.0	
+skier alexandria 1.0	
+skier kenai 1.0	
+victori kenai 1.0	
+bergholtz alexandria 1.0	
+victori skier 1.0	
+skier jordan 1.0	
+theisen bergholtz 1.0	
+jordan alexandria 1.0	
+kenai jordan 1.0	
+victori alexandria 1.0	
+skier bergholtz 1.0	
+kenai bergholtz 1.0	
+theisen jordan 1.0	
+victori jordan 1.0	
+jordan bergholtz 1.0	
+theisen kenai 1.0	
+theisen alexandria 1.0	
+theisen skier 1.0	

@@ -1,0 +1,35 @@
+dl
+YearMonthDate 2014 11 21
+format = edgelist1	
+n=30	
+data:
+nome anchorag 0.25	
+homer christian 0.25	
+houston homer 0.5714285714285714	
+houston homer 0.25	
+glennallen anchorag 0.25	
+nome houston 0.25	
+nome christian 0.25	
+kenai chugiak 0.5714285714285714	
+chugiak central 0.5714285714285714	
+kenai chugiak 1.0	
+houston glennallen 0.25	
+kenai central 0.5714285714285714	
+homer glennallen 0.25	
+nome glennallen 0.25	
+nome houston 0.5714285714285714	
+nome homer 0.5714285714285714	
+houston christian 0.25	
+chugiak central 1.0	
+glennallen christian 0.25	
+houston anchorag 0.25	
+nome homer 0.25	
+homer anchorag 0.25	
+homer bethel 0.5714285714285714	
+west chugiak 0.5714285714285714	
+kenai central 1.0	
+west kenai 0.5714285714285714	
+west central 0.5714285714285714	
+houston bethel 0.5714285714285714	
+nome bethel 0.5714285714285714	
+christian anchorag 0.25	

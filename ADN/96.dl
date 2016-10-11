@@ -1,0 +1,15 @@
+dl
+YearMonthDate 2010 6 18
+format = edgelist1	
+n=10	
+data:
+ulu factori 1.0	
+factori derbi 1.0	
+shack factori 1.0	
+ticket factori 1.0	
+ulu shack 1.0	
+ticket shack 1.0	
+ulu derbi 1.0	
+shack derbi 1.0	
+ticket derbi 1.0	
+ulu ticket 1.0	

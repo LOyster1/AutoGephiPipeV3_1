@@ -1,0 +1,48 @@
+dl
+YearMonthDate 2013 6 5
+format = edgelist1	
+n=43	
+data:
+seward hei 0.5517241379310345	
+jami catch 1.0	
+ticket hei 0.5517241379310345	
+jami expect 1.0	
+ticket seward 0.5517241379310345	
+hei catch 1.0	
+hei expect 0.5517241379310345	
+ticket jami 0.5517241379310345	
+expect catch 1.0	
+pound halibut 1.0	
+jami hei 1.0	
+pound hei 0.5517241379310345	
+pound expect 0.5517241379310345	
+halibut catch 0.5517241379310345	
+pound halibut 0.5517241379310345	
+seward catch 0.5517241379310345	
+pound catch 0.5517241379310345	
+seward pound 0.5517241379310345	
+jami hei 0.5517241379310345	
+hei catch 0.5517241379310345	
+jami expect 0.5517241379310345	
+pound catch 1.0	
+hei halibut 1.0	
+ticket expect 0.5517241379310345	
+ticket halibut 0.5517241379310345	
+pound hei 1.0	
+pound jami 1.0	
+seward halibut 0.5517241379310345	
+jami halibut 0.5517241379310345	
+jami halibut 1.0	
+expect catch 0.5517241379310345	
+pound jami 0.5517241379310345	
+seward jami 0.5517241379310345	
+hei halibut 0.5517241379310345	
+ticket pound 0.5517241379310345	
+halibut catch 1.0	
+seward expect 0.5517241379310345	
+pound expect 1.0	
+halibut expect 0.5517241379310345	
+hei expect 1.0	
+jami catch 0.5517241379310345	
+halibut expect 1.0	
+ticket catch 0.5517241379310345	
